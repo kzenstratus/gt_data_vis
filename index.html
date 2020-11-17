@@ -30,9 +30,9 @@
 <body>
     <script>
         Promise.all([
-            d3.csv("../data/nodegraph/nodes.csv"),
-            d3.csv("../data/nodegraph/links.csv"),
-            d3.csv("../data/nodegraph/var_nodes.csv"),
+            d3.csv("/data/nodes.csv"),
+            d3.csv("/data/links.csv"),
+            d3.csv("/data/var_nodes.csv"),
         ]).then(function (files) {
 
             var links = files[1];

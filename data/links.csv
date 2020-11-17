@@ -1,0 +1,1126 @@
+,source,target
+0,NC,Public Administration_NC
+1,NC,Management of Companies and Enterprises_NC
+2,NC,Health Care and Social Assistance_NC
+3,NC,Finance and Insurance_NC
+4,NC,Educational Services_NC
+5,NC,"Professional, Scientific, and Technical Services_NC"
+6,NC,RETIRED_NC
+7,NC,NOT EMPLOYED_NC
+8,NC,Real Estate and Rental and Leasing_NC
+9,NC,Administrative and Support and Waste Management and Remediation Services_NC
+10,WI,Public Administration_WI
+11,WI,Real Estate and Rental and Leasing_WI
+12,WI,Management of Companies and Enterprises_WI
+13,WI,Health Care and Social Assistance_WI
+14,WI,Educational Services_WI
+15,WI,"Professional, Scientific, and Technical Services_WI"
+16,WI,RETIRED_WI
+17,WI,NOT EMPLOYED_WI
+18,WI,Administrative and Support and Waste Management and Remediation Services_WI
+19,WI,Manufacturing_WI
+20,FL,Public Administration_FL
+21,FL,Management of Companies and Enterprises_FL
+22,FL,Real Estate and Rental and Leasing_FL
+23,FL,Administrative and Support and Waste Management and Remediation Services_FL
+24,FL,Health Care and Social Assistance_FL
+25,FL,Finance and Insurance_FL
+26,FL,"Professional, Scientific, and Technical Services_FL"
+27,FL,RETIRED_FL
+28,FL,NOT EMPLOYED_FL
+29,FL,DIRECTOR_FL
+30,MI,Public Administration_MI
+31,MI,Real Estate and Rental and Leasing_MI
+32,MI,Management of Companies and Enterprises_MI
+33,MI,Health Care and Social Assistance_MI
+34,MI,Educational Services_MI
+35,MI,"Professional, Scientific, and Technical Services_MI"
+36,MI,RETIRED_MI
+37,MI,NOT EMPLOYED_MI
+38,MI,Administrative and Support and Waste Management and Remediation Services_MI
+39,MI,Manufacturing_MI
+40,PA,Public Administration_PA
+41,PA,Management of Companies and Enterprises_PA
+42,PA,Real Estate and Rental and Leasing_PA
+43,PA,NOT EMPLOYED_PA
+44,PA,Health Care and Social Assistance_PA
+45,PA,Educational Services_PA
+46,PA,"Professional, Scientific, and Technical Services_PA"
+47,PA,RETIRED_PA
+48,PA,Administrative and Support and Waste Management and Remediation Services_PA
+49,PA,Finance and Insurance_PA
+50,AZ,Health Care and Social Assistance_AZ
+51,AZ,Finance and Insurance_AZ
+52,AZ,Management of Companies and Enterprises_AZ
+53,AZ,RETIRED_AZ
+54,AZ,"Professional, Scientific, and Technical Services_AZ"
+55,AZ,NOT EMPLOYED_AZ
+56,AZ,Public Administration_AZ
+57,AZ,Administrative and Support and Waste Management and Remediation Services_AZ
+58,AZ,Real Estate and Rental and Leasing_AZ
+59,AZ,Construction_AZ
+60,OH,Health Care and Social Assistance_OH
+61,OH,Management of Companies and Enterprises_OH
+62,OH,RETIRED_OH
+63,OH,"Professional, Scientific, and Technical Services_OH"
+64,OH,NOT EMPLOYED_OH
+65,OH,Educational Services_OH
+66,OH,Finance and Insurance_OH
+67,OH,Administrative and Support and Waste Management and Remediation Services_OH
+68,OH,Real Estate and Rental and Leasing_OH
+69,OH,Public Administration_OH
+70,MN,Public Administration_MN
+71,MN,Real Estate and Rental and Leasing_MN
+72,MN,Transportation and Warehousing_MN
+73,MN,Management of Companies and Enterprises_MN
+74,MN,Health Care and Social Assistance_MN
+75,MN,Educational Services_MN
+76,MN,RETIRED_MN
+77,MN,"Professional, Scientific, and Technical Services_MN"
+78,MN,NOT EMPLOYED_MN
+79,MN,Administrative and Support and Waste Management and Remediation Services_MN
+80,TX,Management of Companies and Enterprises_TX
+81,TX,Health Care and Social Assistance_TX
+82,TX,Finance and Insurance_TX
+83,TX,Educational Services_TX
+84,TX,"Professional, Scientific, and Technical Services_TX"
+85,TX,RETIRED_TX
+86,TX,NOT EMPLOYED_TX
+87,TX,Public Administration_TX
+88,TX,Administrative and Support and Waste Management and Remediation Services_TX
+89,TX,Real Estate and Rental and Leasing_TX
+90,GA,Public Administration_GA
+91,GA,Real Estate and Rental and Leasing_GA
+92,GA,Management of Companies and Enterprises_GA
+93,GA,Health Care and Social Assistance_GA
+94,GA,Finance and Insurance_GA
+95,GA,Educational Services_GA
+96,GA,"Professional, Scientific, and Technical Services_GA"
+97,GA,RETIRED_GA
+98,GA,NOT EMPLOYED_GA
+99,GA,Administrative and Support and Waste Management and Remediation Services_GA
+0,Public Administration_NC,BIDEN FOR PRESIDENT
+1,Management of Companies and Enterprises_NC,BIDEN FOR PRESIDENT
+2,Health Care and Social Assistance_NC,BIDEN FOR PRESIDENT
+3,Finance and Insurance_NC,BIDEN FOR PRESIDENT
+4,Educational Services_NC,BIDEN FOR PRESIDENT
+5,"Professional, Scientific, and Technical Services_NC",BIDEN FOR PRESIDENT
+6,RETIRED_NC,BIDEN FOR PRESIDENT
+7,NOT EMPLOYED_NC,BIDEN FOR PRESIDENT
+8,Real Estate and Rental and Leasing_NC,BIDEN FOR PRESIDENT
+9,Administrative and Support and Waste Management and Remediation Services_NC,BIDEN FOR PRESIDENT
+10,Public Administration_NC,"DONALD J. TRUMP FOR PRESIDENT, INC."
+11,Management of Companies and Enterprises_NC,"DONALD J. TRUMP FOR PRESIDENT, INC."
+12,Health Care and Social Assistance_NC,"DONALD J. TRUMP FOR PRESIDENT, INC."
+13,Finance and Insurance_NC,"DONALD J. TRUMP FOR PRESIDENT, INC."
+14,Educational Services_NC,"DONALD J. TRUMP FOR PRESIDENT, INC."
+15,"Professional, Scientific, and Technical Services_NC","DONALD J. TRUMP FOR PRESIDENT, INC."
+16,RETIRED_NC,"DONALD J. TRUMP FOR PRESIDENT, INC."
+17,NOT EMPLOYED_NC,"DONALD J. TRUMP FOR PRESIDENT, INC."
+18,Real Estate and Rental and Leasing_NC,"DONALD J. TRUMP FOR PRESIDENT, INC."
+19,Administrative and Support and Waste Management and Remediation Services_NC,"DONALD J. TRUMP FOR PRESIDENT, INC."
+20,Public Administration_NC,NRA INSTITUTE FOR LEGISLATIVE ACTION
+21,Management of Companies and Enterprises_NC,NRA INSTITUTE FOR LEGISLATIVE ACTION
+22,"Professional, Scientific, and Technical Services_NC",NRA INSTITUTE FOR LEGISLATIVE ACTION
+23,RETIRED_NC,NRA INSTITUTE FOR LEGISLATIVE ACTION
+24,Real Estate and Rental and Leasing_NC,NRA INSTITUTE FOR LEGISLATIVE ACTION
+25,Administrative and Support and Waste Management and Remediation Services_NC,NRA INSTITUTE FOR LEGISLATIVE ACTION
+26,Public Administration_NC,"MASTER PRINT, INC."
+27,Management of Companies and Enterprises_NC,"MASTER PRINT, INC."
+28,"Professional, Scientific, and Technical Services_NC","MASTER PRINT, INC."
+29,RETIRED_NC,"MASTER PRINT, INC."
+30,Real Estate and Rental and Leasing_NC,"MASTER PRINT, INC."
+31,Administrative and Support and Waste Management and Remediation Services_NC,"MASTER PRINT, INC."
+32,Public Administration_NC,UNITED STATES POSTAL SERVICE
+33,Management of Companies and Enterprises_NC,UNITED STATES POSTAL SERVICE
+34,"Professional, Scientific, and Technical Services_NC",UNITED STATES POSTAL SERVICE
+35,RETIRED_NC,UNITED STATES POSTAL SERVICE
+36,Real Estate and Rental and Leasing_NC,UNITED STATES POSTAL SERVICE
+37,Administrative and Support and Waste Management and Remediation Services_NC,UNITED STATES POSTAL SERVICE
+38,Public Administration_NC,STAMPEDE AMERICA
+39,Management of Companies and Enterprises_NC,STAMPEDE AMERICA
+40,"Professional, Scientific, and Technical Services_NC",STAMPEDE AMERICA
+41,RETIRED_NC,STAMPEDE AMERICA
+42,Real Estate and Rental and Leasing_NC,STAMPEDE AMERICA
+43,Administrative and Support and Waste Management and Remediation Services_NC,STAMPEDE AMERICA
+44,Public Administration_NC,"I360, LLC"
+45,Management of Companies and Enterprises_NC,"I360, LLC"
+46,"Professional, Scientific, and Technical Services_NC","I360, LLC"
+47,RETIRED_NC,"I360, LLC"
+48,Real Estate and Rental and Leasing_NC,"I360, LLC"
+49,Administrative and Support and Waste Management and Remediation Services_NC,"I360, LLC"
+50,Public Administration_NC,NATIONAL RIFLE ASSOCIATION OF AMERICA
+51,Management of Companies and Enterprises_NC,NATIONAL RIFLE ASSOCIATION OF AMERICA
+52,"Professional, Scientific, and Technical Services_NC",NATIONAL RIFLE ASSOCIATION OF AMERICA
+53,RETIRED_NC,NATIONAL RIFLE ASSOCIATION OF AMERICA
+54,Real Estate and Rental and Leasing_NC,NATIONAL RIFLE ASSOCIATION OF AMERICA
+55,Administrative and Support and Waste Management and Remediation Services_NC,NATIONAL RIFLE ASSOCIATION OF AMERICA
+56,Public Administration_NC,"DUSTBUSTERS SWEEPING SERVICE, INC."
+57,Management of Companies and Enterprises_NC,"DUSTBUSTERS SWEEPING SERVICE, INC."
+58,"Professional, Scientific, and Technical Services_NC","DUSTBUSTERS SWEEPING SERVICE, INC."
+59,RETIRED_NC,"DUSTBUSTERS SWEEPING SERVICE, INC."
+60,Real Estate and Rental and Leasing_NC,"DUSTBUSTERS SWEEPING SERVICE, INC."
+61,Administrative and Support and Waste Management and Remediation Services_NC,"DUSTBUSTERS SWEEPING SERVICE, INC."
+62,Public Administration_NC,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+63,Management of Companies and Enterprises_NC,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+64,"Professional, Scientific, and Technical Services_NC",WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+65,RETIRED_NC,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+66,Real Estate and Rental and Leasing_NC,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+67,Administrative and Support and Waste Management and Remediation Services_NC,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+68,Public Administration_NC,"EXECUTIVE EAGLES ADVERTISING, LLC"
+69,Management of Companies and Enterprises_NC,"EXECUTIVE EAGLES ADVERTISING, LLC"
+70,"Professional, Scientific, and Technical Services_NC","EXECUTIVE EAGLES ADVERTISING, LLC"
+71,RETIRED_NC,"EXECUTIVE EAGLES ADVERTISING, LLC"
+72,Real Estate and Rental and Leasing_NC,"EXECUTIVE EAGLES ADVERTISING, LLC"
+73,Administrative and Support and Waste Management and Remediation Services_NC,"EXECUTIVE EAGLES ADVERTISING, LLC"
+74,Public Administration_NC,DONALD J. TRUMP FOR PRESIDENT INC
+75,Management of Companies and Enterprises_NC,DONALD J. TRUMP FOR PRESIDENT INC
+76,Health Care and Social Assistance_NC,DONALD J. TRUMP FOR PRESIDENT INC
+77,Finance and Insurance_NC,DONALD J. TRUMP FOR PRESIDENT INC
+78,Educational Services_NC,DONALD J. TRUMP FOR PRESIDENT INC
+79,"Professional, Scientific, and Technical Services_NC",DONALD J. TRUMP FOR PRESIDENT INC
+80,RETIRED_NC,DONALD J. TRUMP FOR PRESIDENT INC
+81,Real Estate and Rental and Leasing_NC,DONALD J. TRUMP FOR PRESIDENT INC
+82,Administrative and Support and Waste Management and Remediation Services_NC,DONALD J. TRUMP FOR PRESIDENT INC
+83,Public Administration_NC,BIDEN VICTORY FUND
+84,Management of Companies and Enterprises_NC,BIDEN VICTORY FUND
+85,Health Care and Social Assistance_NC,BIDEN VICTORY FUND
+86,Finance and Insurance_NC,BIDEN VICTORY FUND
+87,Educational Services_NC,BIDEN VICTORY FUND
+88,"Professional, Scientific, and Technical Services_NC",BIDEN VICTORY FUND
+89,RETIRED_NC,BIDEN VICTORY FUND
+90,NOT EMPLOYED_NC,BIDEN VICTORY FUND
+91,Real Estate and Rental and Leasing_NC,BIDEN VICTORY FUND
+92,Administrative and Support and Waste Management and Remediation Services_NC,BIDEN VICTORY FUND
+93,Public Administration_NC,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+94,Management of Companies and Enterprises_NC,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+95,Health Care and Social Assistance_NC,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+96,Finance and Insurance_NC,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+97,Educational Services_NC,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+98,"Professional, Scientific, and Technical Services_NC",TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+99,RETIRED_NC,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+100,NOT EMPLOYED_NC,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+101,Real Estate and Rental and Leasing_NC,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+102,Administrative and Support and Waste Management and Remediation Services_NC,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+103,Public Administration_NC,TRUMP VICTORY
+104,Management of Companies and Enterprises_NC,TRUMP VICTORY
+105,Health Care and Social Assistance_NC,TRUMP VICTORY
+106,Finance and Insurance_NC,TRUMP VICTORY
+107,"Professional, Scientific, and Technical Services_NC",TRUMP VICTORY
+108,RETIRED_NC,TRUMP VICTORY
+109,Public Administration_WI,BIDEN FOR PRESIDENT
+110,Real Estate and Rental and Leasing_WI,BIDEN FOR PRESIDENT
+111,Management of Companies and Enterprises_WI,BIDEN FOR PRESIDENT
+112,Health Care and Social Assistance_WI,BIDEN FOR PRESIDENT
+113,Educational Services_WI,BIDEN FOR PRESIDENT
+114,"Professional, Scientific, and Technical Services_WI",BIDEN FOR PRESIDENT
+115,RETIRED_WI,BIDEN FOR PRESIDENT
+116,NOT EMPLOYED_WI,BIDEN FOR PRESIDENT
+117,Administrative and Support and Waste Management and Remediation Services_WI,BIDEN FOR PRESIDENT
+118,Manufacturing_WI,BIDEN FOR PRESIDENT
+119,Public Administration_WI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+120,Real Estate and Rental and Leasing_WI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+121,Management of Companies and Enterprises_WI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+122,Health Care and Social Assistance_WI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+123,Educational Services_WI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+124,"Professional, Scientific, and Technical Services_WI","DONALD J. TRUMP FOR PRESIDENT, INC."
+125,RETIRED_WI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+126,NOT EMPLOYED_WI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+127,Administrative and Support and Waste Management and Remediation Services_WI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+128,Manufacturing_WI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+129,Public Administration_WI,BIDEN VICTORY FUND
+130,Real Estate and Rental and Leasing_WI,BIDEN VICTORY FUND
+131,Management of Companies and Enterprises_WI,BIDEN VICTORY FUND
+132,Health Care and Social Assistance_WI,BIDEN VICTORY FUND
+133,Educational Services_WI,BIDEN VICTORY FUND
+134,"Professional, Scientific, and Technical Services_WI",BIDEN VICTORY FUND
+135,RETIRED_WI,BIDEN VICTORY FUND
+136,NOT EMPLOYED_WI,BIDEN VICTORY FUND
+137,Administrative and Support and Waste Management and Remediation Services_WI,BIDEN VICTORY FUND
+138,Public Administration_WI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+139,Real Estate and Rental and Leasing_WI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+140,Management of Companies and Enterprises_WI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+141,Health Care and Social Assistance_WI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+142,Educational Services_WI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+143,"Professional, Scientific, and Technical Services_WI",TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+144,RETIRED_WI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+145,NOT EMPLOYED_WI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+146,Administrative and Support and Waste Management and Remediation Services_WI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+147,Manufacturing_WI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+148,Management of Companies and Enterprises_WI,NRA INSTITUTE FOR LEGISLATIVE ACTION
+149,Health Care and Social Assistance_WI,NRA INSTITUTE FOR LEGISLATIVE ACTION
+150,"Professional, Scientific, and Technical Services_WI",NRA INSTITUTE FOR LEGISLATIVE ACTION
+151,RETIRED_WI,NRA INSTITUTE FOR LEGISLATIVE ACTION
+152,Administrative and Support and Waste Management and Remediation Services_WI,NRA INSTITUTE FOR LEGISLATIVE ACTION
+153,Manufacturing_WI,NRA INSTITUTE FOR LEGISLATIVE ACTION
+154,Management of Companies and Enterprises_WI,"MASTER PRINT, INC."
+155,Health Care and Social Assistance_WI,"MASTER PRINT, INC."
+156,"Professional, Scientific, and Technical Services_WI","MASTER PRINT, INC."
+157,RETIRED_WI,"MASTER PRINT, INC."
+158,Administrative and Support and Waste Management and Remediation Services_WI,"MASTER PRINT, INC."
+159,Manufacturing_WI,"MASTER PRINT, INC."
+160,Management of Companies and Enterprises_WI,UNITED STATES POSTAL SERVICE
+161,Health Care and Social Assistance_WI,UNITED STATES POSTAL SERVICE
+162,"Professional, Scientific, and Technical Services_WI",UNITED STATES POSTAL SERVICE
+163,RETIRED_WI,UNITED STATES POSTAL SERVICE
+164,Administrative and Support and Waste Management and Remediation Services_WI,UNITED STATES POSTAL SERVICE
+165,Manufacturing_WI,UNITED STATES POSTAL SERVICE
+166,Management of Companies and Enterprises_WI,STAMPEDE AMERICA
+167,Health Care and Social Assistance_WI,STAMPEDE AMERICA
+168,"Professional, Scientific, and Technical Services_WI",STAMPEDE AMERICA
+169,RETIRED_WI,STAMPEDE AMERICA
+170,Administrative and Support and Waste Management and Remediation Services_WI,STAMPEDE AMERICA
+171,Manufacturing_WI,STAMPEDE AMERICA
+172,Management of Companies and Enterprises_WI,"I360, LLC"
+173,Health Care and Social Assistance_WI,"I360, LLC"
+174,"Professional, Scientific, and Technical Services_WI","I360, LLC"
+175,RETIRED_WI,"I360, LLC"
+176,Administrative and Support and Waste Management and Remediation Services_WI,"I360, LLC"
+177,Manufacturing_WI,"I360, LLC"
+178,Management of Companies and Enterprises_WI,NATIONAL RIFLE ASSOCIATION OF AMERICA
+179,Health Care and Social Assistance_WI,NATIONAL RIFLE ASSOCIATION OF AMERICA
+180,"Professional, Scientific, and Technical Services_WI",NATIONAL RIFLE ASSOCIATION OF AMERICA
+181,RETIRED_WI,NATIONAL RIFLE ASSOCIATION OF AMERICA
+182,Administrative and Support and Waste Management and Remediation Services_WI,NATIONAL RIFLE ASSOCIATION OF AMERICA
+183,Manufacturing_WI,NATIONAL RIFLE ASSOCIATION OF AMERICA
+184,Management of Companies and Enterprises_WI,"DUSTBUSTERS SWEEPING SERVICE, INC."
+185,Health Care and Social Assistance_WI,"DUSTBUSTERS SWEEPING SERVICE, INC."
+186,"Professional, Scientific, and Technical Services_WI","DUSTBUSTERS SWEEPING SERVICE, INC."
+187,RETIRED_WI,"DUSTBUSTERS SWEEPING SERVICE, INC."
+188,Administrative and Support and Waste Management and Remediation Services_WI,"DUSTBUSTERS SWEEPING SERVICE, INC."
+189,Manufacturing_WI,"DUSTBUSTERS SWEEPING SERVICE, INC."
+190,Management of Companies and Enterprises_WI,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+191,Health Care and Social Assistance_WI,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+192,"Professional, Scientific, and Technical Services_WI",WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+193,RETIRED_WI,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+194,Administrative and Support and Waste Management and Remediation Services_WI,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+195,Manufacturing_WI,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+196,Management of Companies and Enterprises_WI,"EXECUTIVE EAGLES ADVERTISING, LLC"
+197,Health Care and Social Assistance_WI,"EXECUTIVE EAGLES ADVERTISING, LLC"
+198,"Professional, Scientific, and Technical Services_WI","EXECUTIVE EAGLES ADVERTISING, LLC"
+199,RETIRED_WI,"EXECUTIVE EAGLES ADVERTISING, LLC"
+200,Administrative and Support and Waste Management and Remediation Services_WI,"EXECUTIVE EAGLES ADVERTISING, LLC"
+201,Manufacturing_WI,"EXECUTIVE EAGLES ADVERTISING, LLC"
+202,Management of Companies and Enterprises_WI,TRUMP VICTORY
+203,RETIRED_WI,TRUMP VICTORY
+204,Public Administration_FL,BIDEN FOR PRESIDENT
+205,Management of Companies and Enterprises_FL,BIDEN FOR PRESIDENT
+206,Real Estate and Rental and Leasing_FL,BIDEN FOR PRESIDENT
+207,Administrative and Support and Waste Management and Remediation Services_FL,BIDEN FOR PRESIDENT
+208,Health Care and Social Assistance_FL,BIDEN FOR PRESIDENT
+209,Finance and Insurance_FL,BIDEN FOR PRESIDENT
+210,"Professional, Scientific, and Technical Services_FL",BIDEN FOR PRESIDENT
+211,RETIRED_FL,BIDEN FOR PRESIDENT
+212,NOT EMPLOYED_FL,BIDEN FOR PRESIDENT
+213,DIRECTOR_FL,BIDEN FOR PRESIDENT
+214,Public Administration_FL,"DONALD J. TRUMP FOR PRESIDENT, INC."
+215,Management of Companies and Enterprises_FL,"DONALD J. TRUMP FOR PRESIDENT, INC."
+216,Real Estate and Rental and Leasing_FL,"DONALD J. TRUMP FOR PRESIDENT, INC."
+217,Administrative and Support and Waste Management and Remediation Services_FL,"DONALD J. TRUMP FOR PRESIDENT, INC."
+218,Health Care and Social Assistance_FL,"DONALD J. TRUMP FOR PRESIDENT, INC."
+219,Finance and Insurance_FL,"DONALD J. TRUMP FOR PRESIDENT, INC."
+220,"Professional, Scientific, and Technical Services_FL","DONALD J. TRUMP FOR PRESIDENT, INC."
+221,RETIRED_FL,"DONALD J. TRUMP FOR PRESIDENT, INC."
+222,NOT EMPLOYED_FL,"DONALD J. TRUMP FOR PRESIDENT, INC."
+223,DIRECTOR_FL,"DONALD J. TRUMP FOR PRESIDENT, INC."
+224,Public Administration_FL,DONALD J. TRUMP FOR PRESIDENT INC.
+225,Management of Companies and Enterprises_FL,DONALD J. TRUMP FOR PRESIDENT INC.
+226,Real Estate and Rental and Leasing_FL,DONALD J. TRUMP FOR PRESIDENT INC.
+227,Administrative and Support and Waste Management and Remediation Services_FL,DONALD J. TRUMP FOR PRESIDENT INC.
+228,Health Care and Social Assistance_FL,DONALD J. TRUMP FOR PRESIDENT INC.
+229,Finance and Insurance_FL,DONALD J. TRUMP FOR PRESIDENT INC.
+230,"Professional, Scientific, and Technical Services_FL",DONALD J. TRUMP FOR PRESIDENT INC.
+231,RETIRED_FL,DONALD J. TRUMP FOR PRESIDENT INC.
+232,NOT EMPLOYED_FL,DONALD J. TRUMP FOR PRESIDENT INC.
+233,Public Administration_FL,DONALD J. TRUMP FOR PRESIDENT INC
+234,Management of Companies and Enterprises_FL,DONALD J. TRUMP FOR PRESIDENT INC
+235,Real Estate and Rental and Leasing_FL,DONALD J. TRUMP FOR PRESIDENT INC
+236,Administrative and Support and Waste Management and Remediation Services_FL,DONALD J. TRUMP FOR PRESIDENT INC
+237,Health Care and Social Assistance_FL,DONALD J. TRUMP FOR PRESIDENT INC
+238,Finance and Insurance_FL,DONALD J. TRUMP FOR PRESIDENT INC
+239,"Professional, Scientific, and Technical Services_FL",DONALD J. TRUMP FOR PRESIDENT INC
+240,RETIRED_FL,DONALD J. TRUMP FOR PRESIDENT INC
+241,DIRECTOR_FL,DONALD J. TRUMP FOR PRESIDENT INC
+242,Public Administration_FL,BIDEN VICTORY FUND
+243,Management of Companies and Enterprises_FL,BIDEN VICTORY FUND
+244,Real Estate and Rental and Leasing_FL,BIDEN VICTORY FUND
+245,Administrative and Support and Waste Management and Remediation Services_FL,BIDEN VICTORY FUND
+246,Health Care and Social Assistance_FL,BIDEN VICTORY FUND
+247,Finance and Insurance_FL,BIDEN VICTORY FUND
+248,"Professional, Scientific, and Technical Services_FL",BIDEN VICTORY FUND
+249,RETIRED_FL,BIDEN VICTORY FUND
+250,NOT EMPLOYED_FL,BIDEN VICTORY FUND
+251,DIRECTOR_FL,BIDEN VICTORY FUND
+252,Public Administration_FL,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+253,Management of Companies and Enterprises_FL,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+254,Real Estate and Rental and Leasing_FL,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+255,Administrative and Support and Waste Management and Remediation Services_FL,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+256,Health Care and Social Assistance_FL,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+257,Finance and Insurance_FL,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+258,"Professional, Scientific, and Technical Services_FL",TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+259,RETIRED_FL,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+260,NOT EMPLOYED_FL,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+261,DIRECTOR_FL,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+262,Public Administration_FL,TRUMP VICTORY
+263,Management of Companies and Enterprises_FL,TRUMP VICTORY
+264,Real Estate and Rental and Leasing_FL,TRUMP VICTORY
+265,Health Care and Social Assistance_FL,TRUMP VICTORY
+266,Finance and Insurance_FL,TRUMP VICTORY
+267,"Professional, Scientific, and Technical Services_FL",TRUMP VICTORY
+268,RETIRED_FL,TRUMP VICTORY
+269,DIRECTOR_FL,TRUMP VICTORY
+270,"Professional, Scientific, and Technical Services_FL",PLANNED PARENTHOOD MAINE ACTION FUND
+271,RETIRED_FL,PLANNED PARENTHOOD MAINE ACTION FUND
+272,NOT EMPLOYED_FL,PLANNED PARENTHOOD MAINE ACTION FUND
+273,"Professional, Scientific, and Technical Services_FL",PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+274,RETIRED_FL,PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+275,NOT EMPLOYED_FL,PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+276,"Professional, Scientific, and Technical Services_FL",FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+277,RETIRED_FL,FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+278,NOT EMPLOYED_FL,FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+279,Public Administration_MI,BIDEN FOR PRESIDENT
+280,Real Estate and Rental and Leasing_MI,BIDEN FOR PRESIDENT
+281,Management of Companies and Enterprises_MI,BIDEN FOR PRESIDENT
+282,Health Care and Social Assistance_MI,BIDEN FOR PRESIDENT
+283,Educational Services_MI,BIDEN FOR PRESIDENT
+284,"Professional, Scientific, and Technical Services_MI",BIDEN FOR PRESIDENT
+285,RETIRED_MI,BIDEN FOR PRESIDENT
+286,NOT EMPLOYED_MI,BIDEN FOR PRESIDENT
+287,Administrative and Support and Waste Management and Remediation Services_MI,BIDEN FOR PRESIDENT
+288,Manufacturing_MI,BIDEN FOR PRESIDENT
+289,Public Administration_MI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+290,Real Estate and Rental and Leasing_MI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+291,Management of Companies and Enterprises_MI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+292,Health Care and Social Assistance_MI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+293,Educational Services_MI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+294,"Professional, Scientific, and Technical Services_MI","DONALD J. TRUMP FOR PRESIDENT, INC."
+295,RETIRED_MI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+296,NOT EMPLOYED_MI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+297,Administrative and Support and Waste Management and Remediation Services_MI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+298,Manufacturing_MI,"DONALD J. TRUMP FOR PRESIDENT, INC."
+299,Public Administration_MI,NRA INSTITUTE FOR LEGISLATIVE ACTION
+300,Real Estate and Rental and Leasing_MI,NRA INSTITUTE FOR LEGISLATIVE ACTION
+301,Management of Companies and Enterprises_MI,NRA INSTITUTE FOR LEGISLATIVE ACTION
+302,Health Care and Social Assistance_MI,NRA INSTITUTE FOR LEGISLATIVE ACTION
+303,Educational Services_MI,NRA INSTITUTE FOR LEGISLATIVE ACTION
+304,"Professional, Scientific, and Technical Services_MI",NRA INSTITUTE FOR LEGISLATIVE ACTION
+305,RETIRED_MI,NRA INSTITUTE FOR LEGISLATIVE ACTION
+306,Manufacturing_MI,NRA INSTITUTE FOR LEGISLATIVE ACTION
+307,Public Administration_MI,"MASTER PRINT, INC."
+308,Real Estate and Rental and Leasing_MI,"MASTER PRINT, INC."
+309,Management of Companies and Enterprises_MI,"MASTER PRINT, INC."
+310,Health Care and Social Assistance_MI,"MASTER PRINT, INC."
+311,Educational Services_MI,"MASTER PRINT, INC."
+312,"Professional, Scientific, and Technical Services_MI","MASTER PRINT, INC."
+313,RETIRED_MI,"MASTER PRINT, INC."
+314,Manufacturing_MI,"MASTER PRINT, INC."
+315,Public Administration_MI,UNITED STATES POSTAL SERVICE
+316,Real Estate and Rental and Leasing_MI,UNITED STATES POSTAL SERVICE
+317,Management of Companies and Enterprises_MI,UNITED STATES POSTAL SERVICE
+318,Health Care and Social Assistance_MI,UNITED STATES POSTAL SERVICE
+319,Educational Services_MI,UNITED STATES POSTAL SERVICE
+320,"Professional, Scientific, and Technical Services_MI",UNITED STATES POSTAL SERVICE
+321,RETIRED_MI,UNITED STATES POSTAL SERVICE
+322,Manufacturing_MI,UNITED STATES POSTAL SERVICE
+323,Public Administration_MI,STAMPEDE AMERICA
+324,Real Estate and Rental and Leasing_MI,STAMPEDE AMERICA
+325,Management of Companies and Enterprises_MI,STAMPEDE AMERICA
+326,Health Care and Social Assistance_MI,STAMPEDE AMERICA
+327,Educational Services_MI,STAMPEDE AMERICA
+328,"Professional, Scientific, and Technical Services_MI",STAMPEDE AMERICA
+329,RETIRED_MI,STAMPEDE AMERICA
+330,Manufacturing_MI,STAMPEDE AMERICA
+331,Public Administration_MI,"I360, LLC"
+332,Real Estate and Rental and Leasing_MI,"I360, LLC"
+333,Management of Companies and Enterprises_MI,"I360, LLC"
+334,Health Care and Social Assistance_MI,"I360, LLC"
+335,Educational Services_MI,"I360, LLC"
+336,"Professional, Scientific, and Technical Services_MI","I360, LLC"
+337,RETIRED_MI,"I360, LLC"
+338,Manufacturing_MI,"I360, LLC"
+339,Public Administration_MI,NATIONAL RIFLE ASSOCIATION OF AMERICA
+340,Real Estate and Rental and Leasing_MI,NATIONAL RIFLE ASSOCIATION OF AMERICA
+341,Management of Companies and Enterprises_MI,NATIONAL RIFLE ASSOCIATION OF AMERICA
+342,Health Care and Social Assistance_MI,NATIONAL RIFLE ASSOCIATION OF AMERICA
+343,Educational Services_MI,NATIONAL RIFLE ASSOCIATION OF AMERICA
+344,"Professional, Scientific, and Technical Services_MI",NATIONAL RIFLE ASSOCIATION OF AMERICA
+345,RETIRED_MI,NATIONAL RIFLE ASSOCIATION OF AMERICA
+346,Manufacturing_MI,NATIONAL RIFLE ASSOCIATION OF AMERICA
+347,Public Administration_MI,"DUSTBUSTERS SWEEPING SERVICE, INC."
+348,Real Estate and Rental and Leasing_MI,"DUSTBUSTERS SWEEPING SERVICE, INC."
+349,Management of Companies and Enterprises_MI,"DUSTBUSTERS SWEEPING SERVICE, INC."
+350,Health Care and Social Assistance_MI,"DUSTBUSTERS SWEEPING SERVICE, INC."
+351,Educational Services_MI,"DUSTBUSTERS SWEEPING SERVICE, INC."
+352,"Professional, Scientific, and Technical Services_MI","DUSTBUSTERS SWEEPING SERVICE, INC."
+353,RETIRED_MI,"DUSTBUSTERS SWEEPING SERVICE, INC."
+354,Manufacturing_MI,"DUSTBUSTERS SWEEPING SERVICE, INC."
+355,Public Administration_MI,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+356,Real Estate and Rental and Leasing_MI,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+357,Management of Companies and Enterprises_MI,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+358,Health Care and Social Assistance_MI,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+359,Educational Services_MI,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+360,"Professional, Scientific, and Technical Services_MI",WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+361,RETIRED_MI,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+362,Manufacturing_MI,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+363,Public Administration_MI,"EXECUTIVE EAGLES ADVERTISING, LLC"
+364,Real Estate and Rental and Leasing_MI,"EXECUTIVE EAGLES ADVERTISING, LLC"
+365,Management of Companies and Enterprises_MI,"EXECUTIVE EAGLES ADVERTISING, LLC"
+366,Health Care and Social Assistance_MI,"EXECUTIVE EAGLES ADVERTISING, LLC"
+367,Educational Services_MI,"EXECUTIVE EAGLES ADVERTISING, LLC"
+368,"Professional, Scientific, and Technical Services_MI","EXECUTIVE EAGLES ADVERTISING, LLC"
+369,RETIRED_MI,"EXECUTIVE EAGLES ADVERTISING, LLC"
+370,Manufacturing_MI,"EXECUTIVE EAGLES ADVERTISING, LLC"
+371,Public Administration_MI,DONALD J. TRUMP FOR PRESIDENT INC
+372,Real Estate and Rental and Leasing_MI,DONALD J. TRUMP FOR PRESIDENT INC
+373,Management of Companies and Enterprises_MI,DONALD J. TRUMP FOR PRESIDENT INC
+374,Health Care and Social Assistance_MI,DONALD J. TRUMP FOR PRESIDENT INC
+375,Educational Services_MI,DONALD J. TRUMP FOR PRESIDENT INC
+376,"Professional, Scientific, and Technical Services_MI",DONALD J. TRUMP FOR PRESIDENT INC
+377,RETIRED_MI,DONALD J. TRUMP FOR PRESIDENT INC
+378,Administrative and Support and Waste Management and Remediation Services_MI,DONALD J. TRUMP FOR PRESIDENT INC
+379,Manufacturing_MI,DONALD J. TRUMP FOR PRESIDENT INC
+380,Public Administration_MI,BIDEN VICTORY FUND
+381,Real Estate and Rental and Leasing_MI,BIDEN VICTORY FUND
+382,Management of Companies and Enterprises_MI,BIDEN VICTORY FUND
+383,Health Care and Social Assistance_MI,BIDEN VICTORY FUND
+384,Educational Services_MI,BIDEN VICTORY FUND
+385,"Professional, Scientific, and Technical Services_MI",BIDEN VICTORY FUND
+386,RETIRED_MI,BIDEN VICTORY FUND
+387,NOT EMPLOYED_MI,BIDEN VICTORY FUND
+388,Administrative and Support and Waste Management and Remediation Services_MI,BIDEN VICTORY FUND
+389,Public Administration_MI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+390,Real Estate and Rental and Leasing_MI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+391,Management of Companies and Enterprises_MI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+392,Health Care and Social Assistance_MI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+393,Educational Services_MI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+394,"Professional, Scientific, and Technical Services_MI",TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+395,RETIRED_MI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+396,NOT EMPLOYED_MI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+397,Administrative and Support and Waste Management and Remediation Services_MI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+398,Manufacturing_MI,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+399,Public Administration_PA,BIDEN FOR PRESIDENT
+400,Management of Companies and Enterprises_PA,BIDEN FOR PRESIDENT
+401,Real Estate and Rental and Leasing_PA,BIDEN FOR PRESIDENT
+402,NOT EMPLOYED_PA,BIDEN FOR PRESIDENT
+403,Health Care and Social Assistance_PA,BIDEN FOR PRESIDENT
+404,Educational Services_PA,BIDEN FOR PRESIDENT
+405,"Professional, Scientific, and Technical Services_PA",BIDEN FOR PRESIDENT
+406,RETIRED_PA,BIDEN FOR PRESIDENT
+407,Administrative and Support and Waste Management and Remediation Services_PA,BIDEN FOR PRESIDENT
+408,Finance and Insurance_PA,BIDEN FOR PRESIDENT
+409,Public Administration_PA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+410,Management of Companies and Enterprises_PA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+411,Real Estate and Rental and Leasing_PA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+412,NOT EMPLOYED_PA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+413,Health Care and Social Assistance_PA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+414,Educational Services_PA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+415,"Professional, Scientific, and Technical Services_PA","DONALD J. TRUMP FOR PRESIDENT, INC."
+416,RETIRED_PA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+417,Administrative and Support and Waste Management and Remediation Services_PA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+418,Finance and Insurance_PA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+419,Public Administration_PA,NRA INSTITUTE FOR LEGISLATIVE ACTION
+420,Management of Companies and Enterprises_PA,NRA INSTITUTE FOR LEGISLATIVE ACTION
+421,Real Estate and Rental and Leasing_PA,NRA INSTITUTE FOR LEGISLATIVE ACTION
+422,Health Care and Social Assistance_PA,NRA INSTITUTE FOR LEGISLATIVE ACTION
+423,Educational Services_PA,NRA INSTITUTE FOR LEGISLATIVE ACTION
+424,"Professional, Scientific, and Technical Services_PA",NRA INSTITUTE FOR LEGISLATIVE ACTION
+425,RETIRED_PA,NRA INSTITUTE FOR LEGISLATIVE ACTION
+426,Administrative and Support and Waste Management and Remediation Services_PA,NRA INSTITUTE FOR LEGISLATIVE ACTION
+427,Finance and Insurance_PA,NRA INSTITUTE FOR LEGISLATIVE ACTION
+428,Public Administration_PA,"MASTER PRINT, INC."
+429,Management of Companies and Enterprises_PA,"MASTER PRINT, INC."
+430,Real Estate and Rental and Leasing_PA,"MASTER PRINT, INC."
+431,Health Care and Social Assistance_PA,"MASTER PRINT, INC."
+432,Educational Services_PA,"MASTER PRINT, INC."
+433,"Professional, Scientific, and Technical Services_PA","MASTER PRINT, INC."
+434,RETIRED_PA,"MASTER PRINT, INC."
+435,Administrative and Support and Waste Management and Remediation Services_PA,"MASTER PRINT, INC."
+436,Finance and Insurance_PA,"MASTER PRINT, INC."
+437,Public Administration_PA,UNITED STATES POSTAL SERVICE
+438,Management of Companies and Enterprises_PA,UNITED STATES POSTAL SERVICE
+439,Real Estate and Rental and Leasing_PA,UNITED STATES POSTAL SERVICE
+440,Health Care and Social Assistance_PA,UNITED STATES POSTAL SERVICE
+441,Educational Services_PA,UNITED STATES POSTAL SERVICE
+442,"Professional, Scientific, and Technical Services_PA",UNITED STATES POSTAL SERVICE
+443,RETIRED_PA,UNITED STATES POSTAL SERVICE
+444,Administrative and Support and Waste Management and Remediation Services_PA,UNITED STATES POSTAL SERVICE
+445,Finance and Insurance_PA,UNITED STATES POSTAL SERVICE
+446,Public Administration_PA,STAMPEDE AMERICA
+447,Management of Companies and Enterprises_PA,STAMPEDE AMERICA
+448,Real Estate and Rental and Leasing_PA,STAMPEDE AMERICA
+449,Health Care and Social Assistance_PA,STAMPEDE AMERICA
+450,Educational Services_PA,STAMPEDE AMERICA
+451,"Professional, Scientific, and Technical Services_PA",STAMPEDE AMERICA
+452,RETIRED_PA,STAMPEDE AMERICA
+453,Administrative and Support and Waste Management and Remediation Services_PA,STAMPEDE AMERICA
+454,Finance and Insurance_PA,STAMPEDE AMERICA
+455,Public Administration_PA,"I360, LLC"
+456,Management of Companies and Enterprises_PA,"I360, LLC"
+457,Real Estate and Rental and Leasing_PA,"I360, LLC"
+458,Health Care and Social Assistance_PA,"I360, LLC"
+459,Educational Services_PA,"I360, LLC"
+460,"Professional, Scientific, and Technical Services_PA","I360, LLC"
+461,RETIRED_PA,"I360, LLC"
+462,Administrative and Support and Waste Management and Remediation Services_PA,"I360, LLC"
+463,Finance and Insurance_PA,"I360, LLC"
+464,Public Administration_PA,NATIONAL RIFLE ASSOCIATION OF AMERICA
+465,Management of Companies and Enterprises_PA,NATIONAL RIFLE ASSOCIATION OF AMERICA
+466,Real Estate and Rental and Leasing_PA,NATIONAL RIFLE ASSOCIATION OF AMERICA
+467,Health Care and Social Assistance_PA,NATIONAL RIFLE ASSOCIATION OF AMERICA
+468,Educational Services_PA,NATIONAL RIFLE ASSOCIATION OF AMERICA
+469,"Professional, Scientific, and Technical Services_PA",NATIONAL RIFLE ASSOCIATION OF AMERICA
+470,RETIRED_PA,NATIONAL RIFLE ASSOCIATION OF AMERICA
+471,Administrative and Support and Waste Management and Remediation Services_PA,NATIONAL RIFLE ASSOCIATION OF AMERICA
+472,Finance and Insurance_PA,NATIONAL RIFLE ASSOCIATION OF AMERICA
+473,Public Administration_PA,"DUSTBUSTERS SWEEPING SERVICE, INC."
+474,Management of Companies and Enterprises_PA,"DUSTBUSTERS SWEEPING SERVICE, INC."
+475,Real Estate and Rental and Leasing_PA,"DUSTBUSTERS SWEEPING SERVICE, INC."
+476,Health Care and Social Assistance_PA,"DUSTBUSTERS SWEEPING SERVICE, INC."
+477,Educational Services_PA,"DUSTBUSTERS SWEEPING SERVICE, INC."
+478,"Professional, Scientific, and Technical Services_PA","DUSTBUSTERS SWEEPING SERVICE, INC."
+479,RETIRED_PA,"DUSTBUSTERS SWEEPING SERVICE, INC."
+480,Administrative and Support and Waste Management and Remediation Services_PA,"DUSTBUSTERS SWEEPING SERVICE, INC."
+481,Finance and Insurance_PA,"DUSTBUSTERS SWEEPING SERVICE, INC."
+482,Public Administration_PA,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+483,Management of Companies and Enterprises_PA,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+484,Real Estate and Rental and Leasing_PA,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+485,Health Care and Social Assistance_PA,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+486,Educational Services_PA,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+487,"Professional, Scientific, and Technical Services_PA",WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+488,RETIRED_PA,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+489,Administrative and Support and Waste Management and Remediation Services_PA,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+490,Finance and Insurance_PA,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+491,Public Administration_PA,"EXECUTIVE EAGLES ADVERTISING, LLC"
+492,Management of Companies and Enterprises_PA,"EXECUTIVE EAGLES ADVERTISING, LLC"
+493,Real Estate and Rental and Leasing_PA,"EXECUTIVE EAGLES ADVERTISING, LLC"
+494,Health Care and Social Assistance_PA,"EXECUTIVE EAGLES ADVERTISING, LLC"
+495,Educational Services_PA,"EXECUTIVE EAGLES ADVERTISING, LLC"
+496,"Professional, Scientific, and Technical Services_PA","EXECUTIVE EAGLES ADVERTISING, LLC"
+497,RETIRED_PA,"EXECUTIVE EAGLES ADVERTISING, LLC"
+498,Administrative and Support and Waste Management and Remediation Services_PA,"EXECUTIVE EAGLES ADVERTISING, LLC"
+499,Finance and Insurance_PA,"EXECUTIVE EAGLES ADVERTISING, LLC"
+500,Public Administration_PA,BIDEN VICTORY FUND
+501,Management of Companies and Enterprises_PA,BIDEN VICTORY FUND
+502,Real Estate and Rental and Leasing_PA,BIDEN VICTORY FUND
+503,NOT EMPLOYED_PA,BIDEN VICTORY FUND
+504,Health Care and Social Assistance_PA,BIDEN VICTORY FUND
+505,Educational Services_PA,BIDEN VICTORY FUND
+506,"Professional, Scientific, and Technical Services_PA",BIDEN VICTORY FUND
+507,RETIRED_PA,BIDEN VICTORY FUND
+508,Administrative and Support and Waste Management and Remediation Services_PA,BIDEN VICTORY FUND
+509,Finance and Insurance_PA,BIDEN VICTORY FUND
+510,Public Administration_PA,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+511,Management of Companies and Enterprises_PA,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+512,Real Estate and Rental and Leasing_PA,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+513,NOT EMPLOYED_PA,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+514,Health Care and Social Assistance_PA,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+515,Educational Services_PA,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+516,"Professional, Scientific, and Technical Services_PA",TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+517,RETIRED_PA,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+518,Administrative and Support and Waste Management and Remediation Services_PA,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+519,Finance and Insurance_PA,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+520,Public Administration_PA,TRUMP VICTORY
+521,Management of Companies and Enterprises_PA,TRUMP VICTORY
+522,Real Estate and Rental and Leasing_PA,TRUMP VICTORY
+523,Health Care and Social Assistance_PA,TRUMP VICTORY
+524,"Professional, Scientific, and Technical Services_PA",TRUMP VICTORY
+525,RETIRED_PA,TRUMP VICTORY
+526,Finance and Insurance_PA,TRUMP VICTORY
+527,Health Care and Social Assistance_AZ,"DONALD J. TRUMP FOR PRESIDENT, INC."
+528,Finance and Insurance_AZ,"DONALD J. TRUMP FOR PRESIDENT, INC."
+529,Management of Companies and Enterprises_AZ,"DONALD J. TRUMP FOR PRESIDENT, INC."
+530,RETIRED_AZ,"DONALD J. TRUMP FOR PRESIDENT, INC."
+531,"Professional, Scientific, and Technical Services_AZ","DONALD J. TRUMP FOR PRESIDENT, INC."
+532,NOT EMPLOYED_AZ,"DONALD J. TRUMP FOR PRESIDENT, INC."
+533,Public Administration_AZ,"DONALD J. TRUMP FOR PRESIDENT, INC."
+534,Administrative and Support and Waste Management and Remediation Services_AZ,"DONALD J. TRUMP FOR PRESIDENT, INC."
+535,Real Estate and Rental and Leasing_AZ,"DONALD J. TRUMP FOR PRESIDENT, INC."
+536,Construction_AZ,"DONALD J. TRUMP FOR PRESIDENT, INC."
+537,Health Care and Social Assistance_AZ,BIDEN FOR PRESIDENT
+538,Finance and Insurance_AZ,BIDEN FOR PRESIDENT
+539,Management of Companies and Enterprises_AZ,BIDEN FOR PRESIDENT
+540,RETIRED_AZ,BIDEN FOR PRESIDENT
+541,"Professional, Scientific, and Technical Services_AZ",BIDEN FOR PRESIDENT
+542,NOT EMPLOYED_AZ,BIDEN FOR PRESIDENT
+543,Public Administration_AZ,BIDEN FOR PRESIDENT
+544,Administrative and Support and Waste Management and Remediation Services_AZ,BIDEN FOR PRESIDENT
+545,Real Estate and Rental and Leasing_AZ,BIDEN FOR PRESIDENT
+546,Construction_AZ,BIDEN FOR PRESIDENT
+547,Health Care and Social Assistance_AZ,STAMPEDE AMERICA
+548,Management of Companies and Enterprises_AZ,STAMPEDE AMERICA
+549,RETIRED_AZ,STAMPEDE AMERICA
+550,"Professional, Scientific, and Technical Services_AZ",STAMPEDE AMERICA
+551,Public Administration_AZ,STAMPEDE AMERICA
+552,Real Estate and Rental and Leasing_AZ,STAMPEDE AMERICA
+553,Health Care and Social Assistance_AZ,"I360, LLC"
+554,Management of Companies and Enterprises_AZ,"I360, LLC"
+555,RETIRED_AZ,"I360, LLC"
+556,"Professional, Scientific, and Technical Services_AZ","I360, LLC"
+557,Public Administration_AZ,"I360, LLC"
+558,Real Estate and Rental and Leasing_AZ,"I360, LLC"
+559,Health Care and Social Assistance_AZ,NATIONAL RIFLE ASSOCIATION OF AMERICA
+560,Management of Companies and Enterprises_AZ,NATIONAL RIFLE ASSOCIATION OF AMERICA
+561,RETIRED_AZ,NATIONAL RIFLE ASSOCIATION OF AMERICA
+562,"Professional, Scientific, and Technical Services_AZ",NATIONAL RIFLE ASSOCIATION OF AMERICA
+563,Public Administration_AZ,NATIONAL RIFLE ASSOCIATION OF AMERICA
+564,Real Estate and Rental and Leasing_AZ,NATIONAL RIFLE ASSOCIATION OF AMERICA
+565,Health Care and Social Assistance_AZ,"DUSTBUSTERS SWEEPING SERVICE, INC."
+566,Management of Companies and Enterprises_AZ,"DUSTBUSTERS SWEEPING SERVICE, INC."
+567,RETIRED_AZ,"DUSTBUSTERS SWEEPING SERVICE, INC."
+568,"Professional, Scientific, and Technical Services_AZ","DUSTBUSTERS SWEEPING SERVICE, INC."
+569,Public Administration_AZ,"DUSTBUSTERS SWEEPING SERVICE, INC."
+570,Real Estate and Rental and Leasing_AZ,"DUSTBUSTERS SWEEPING SERVICE, INC."
+571,Health Care and Social Assistance_AZ,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+572,Management of Companies and Enterprises_AZ,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+573,RETIRED_AZ,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+574,"Professional, Scientific, and Technical Services_AZ",WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+575,Public Administration_AZ,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+576,Real Estate and Rental and Leasing_AZ,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+577,Health Care and Social Assistance_AZ,"EXECUTIVE EAGLES ADVERTISING, LLC"
+578,Management of Companies and Enterprises_AZ,"EXECUTIVE EAGLES ADVERTISING, LLC"
+579,RETIRED_AZ,"EXECUTIVE EAGLES ADVERTISING, LLC"
+580,"Professional, Scientific, and Technical Services_AZ","EXECUTIVE EAGLES ADVERTISING, LLC"
+581,Public Administration_AZ,"EXECUTIVE EAGLES ADVERTISING, LLC"
+582,Real Estate and Rental and Leasing_AZ,"EXECUTIVE EAGLES ADVERTISING, LLC"
+583,Health Care and Social Assistance_AZ,NRA INSTITUTE FOR LEGISLATIVE ACTION
+584,Management of Companies and Enterprises_AZ,NRA INSTITUTE FOR LEGISLATIVE ACTION
+585,RETIRED_AZ,NRA INSTITUTE FOR LEGISLATIVE ACTION
+586,"Professional, Scientific, and Technical Services_AZ",NRA INSTITUTE FOR LEGISLATIVE ACTION
+587,Public Administration_AZ,NRA INSTITUTE FOR LEGISLATIVE ACTION
+588,Real Estate and Rental and Leasing_AZ,NRA INSTITUTE FOR LEGISLATIVE ACTION
+589,Health Care and Social Assistance_AZ,"MASTER PRINT, INC."
+590,Management of Companies and Enterprises_AZ,"MASTER PRINT, INC."
+591,RETIRED_AZ,"MASTER PRINT, INC."
+592,"Professional, Scientific, and Technical Services_AZ","MASTER PRINT, INC."
+593,Public Administration_AZ,"MASTER PRINT, INC."
+594,Real Estate and Rental and Leasing_AZ,"MASTER PRINT, INC."
+595,Health Care and Social Assistance_AZ,UNITED STATES POSTAL SERVICE
+596,Management of Companies and Enterprises_AZ,UNITED STATES POSTAL SERVICE
+597,RETIRED_AZ,UNITED STATES POSTAL SERVICE
+598,"Professional, Scientific, and Technical Services_AZ",UNITED STATES POSTAL SERVICE
+599,Public Administration_AZ,UNITED STATES POSTAL SERVICE
+600,Real Estate and Rental and Leasing_AZ,UNITED STATES POSTAL SERVICE
+601,Health Care and Social Assistance_AZ,DONALD J. TRUMP FOR PRESIDENT INC
+602,Finance and Insurance_AZ,DONALD J. TRUMP FOR PRESIDENT INC
+603,Management of Companies and Enterprises_AZ,DONALD J. TRUMP FOR PRESIDENT INC
+604,RETIRED_AZ,DONALD J. TRUMP FOR PRESIDENT INC
+605,"Professional, Scientific, and Technical Services_AZ",DONALD J. TRUMP FOR PRESIDENT INC
+606,Public Administration_AZ,DONALD J. TRUMP FOR PRESIDENT INC
+607,Administrative and Support and Waste Management and Remediation Services_AZ,DONALD J. TRUMP FOR PRESIDENT INC
+608,Real Estate and Rental and Leasing_AZ,DONALD J. TRUMP FOR PRESIDENT INC
+609,Construction_AZ,DONALD J. TRUMP FOR PRESIDENT INC
+610,Health Care and Social Assistance_AZ,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+611,Finance and Insurance_AZ,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+612,Management of Companies and Enterprises_AZ,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+613,RETIRED_AZ,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+614,"Professional, Scientific, and Technical Services_AZ",TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+615,NOT EMPLOYED_AZ,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+616,Public Administration_AZ,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+617,Administrative and Support and Waste Management and Remediation Services_AZ,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+618,Real Estate and Rental and Leasing_AZ,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+619,Construction_AZ,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+620,Health Care and Social Assistance_AZ,TRUMP VICTORY
+621,Finance and Insurance_AZ,TRUMP VICTORY
+622,Management of Companies and Enterprises_AZ,TRUMP VICTORY
+623,RETIRED_AZ,TRUMP VICTORY
+624,"Professional, Scientific, and Technical Services_AZ",TRUMP VICTORY
+625,Public Administration_AZ,TRUMP VICTORY
+626,Administrative and Support and Waste Management and Remediation Services_AZ,TRUMP VICTORY
+627,Real Estate and Rental and Leasing_AZ,TRUMP VICTORY
+628,Construction_AZ,TRUMP VICTORY
+629,Health Care and Social Assistance_AZ,BIDEN VICTORY FUND
+630,Finance and Insurance_AZ,BIDEN VICTORY FUND
+631,Management of Companies and Enterprises_AZ,BIDEN VICTORY FUND
+632,RETIRED_AZ,BIDEN VICTORY FUND
+633,"Professional, Scientific, and Technical Services_AZ",BIDEN VICTORY FUND
+634,NOT EMPLOYED_AZ,BIDEN VICTORY FUND
+635,Administrative and Support and Waste Management and Remediation Services_AZ,BIDEN VICTORY FUND
+636,Real Estate and Rental and Leasing_AZ,BIDEN VICTORY FUND
+637,Health Care and Social Assistance_OH,"DONALD J. TRUMP FOR PRESIDENT, INC."
+638,Management of Companies and Enterprises_OH,"DONALD J. TRUMP FOR PRESIDENT, INC."
+639,RETIRED_OH,"DONALD J. TRUMP FOR PRESIDENT, INC."
+640,"Professional, Scientific, and Technical Services_OH","DONALD J. TRUMP FOR PRESIDENT, INC."
+641,NOT EMPLOYED_OH,"DONALD J. TRUMP FOR PRESIDENT, INC."
+642,Educational Services_OH,"DONALD J. TRUMP FOR PRESIDENT, INC."
+643,Finance and Insurance_OH,"DONALD J. TRUMP FOR PRESIDENT, INC."
+644,Administrative and Support and Waste Management and Remediation Services_OH,"DONALD J. TRUMP FOR PRESIDENT, INC."
+645,Real Estate and Rental and Leasing_OH,"DONALD J. TRUMP FOR PRESIDENT, INC."
+646,Public Administration_OH,"DONALD J. TRUMP FOR PRESIDENT, INC."
+647,Health Care and Social Assistance_OH,BIDEN FOR PRESIDENT
+648,Management of Companies and Enterprises_OH,BIDEN FOR PRESIDENT
+649,RETIRED_OH,BIDEN FOR PRESIDENT
+650,"Professional, Scientific, and Technical Services_OH",BIDEN FOR PRESIDENT
+651,NOT EMPLOYED_OH,BIDEN FOR PRESIDENT
+652,Educational Services_OH,BIDEN FOR PRESIDENT
+653,Finance and Insurance_OH,BIDEN FOR PRESIDENT
+654,Administrative and Support and Waste Management and Remediation Services_OH,BIDEN FOR PRESIDENT
+655,Real Estate and Rental and Leasing_OH,BIDEN FOR PRESIDENT
+656,Public Administration_OH,BIDEN FOR PRESIDENT
+657,Health Care and Social Assistance_OH,STAMPEDE AMERICA
+658,Management of Companies and Enterprises_OH,STAMPEDE AMERICA
+659,RETIRED_OH,STAMPEDE AMERICA
+660,"Professional, Scientific, and Technical Services_OH",STAMPEDE AMERICA
+661,Educational Services_OH,STAMPEDE AMERICA
+662,Administrative and Support and Waste Management and Remediation Services_OH,STAMPEDE AMERICA
+663,Real Estate and Rental and Leasing_OH,STAMPEDE AMERICA
+664,Public Administration_OH,STAMPEDE AMERICA
+665,Health Care and Social Assistance_OH,"I360, LLC"
+666,Management of Companies and Enterprises_OH,"I360, LLC"
+667,RETIRED_OH,"I360, LLC"
+668,"Professional, Scientific, and Technical Services_OH","I360, LLC"
+669,Educational Services_OH,"I360, LLC"
+670,Administrative and Support and Waste Management and Remediation Services_OH,"I360, LLC"
+671,Real Estate and Rental and Leasing_OH,"I360, LLC"
+672,Public Administration_OH,"I360, LLC"
+673,Health Care and Social Assistance_OH,NATIONAL RIFLE ASSOCIATION OF AMERICA
+674,Management of Companies and Enterprises_OH,NATIONAL RIFLE ASSOCIATION OF AMERICA
+675,RETIRED_OH,NATIONAL RIFLE ASSOCIATION OF AMERICA
+676,"Professional, Scientific, and Technical Services_OH",NATIONAL RIFLE ASSOCIATION OF AMERICA
+677,Educational Services_OH,NATIONAL RIFLE ASSOCIATION OF AMERICA
+678,Administrative and Support and Waste Management and Remediation Services_OH,NATIONAL RIFLE ASSOCIATION OF AMERICA
+679,Real Estate and Rental and Leasing_OH,NATIONAL RIFLE ASSOCIATION OF AMERICA
+680,Public Administration_OH,NATIONAL RIFLE ASSOCIATION OF AMERICA
+681,Health Care and Social Assistance_OH,"DUSTBUSTERS SWEEPING SERVICE, INC."
+682,Management of Companies and Enterprises_OH,"DUSTBUSTERS SWEEPING SERVICE, INC."
+683,RETIRED_OH,"DUSTBUSTERS SWEEPING SERVICE, INC."
+684,"Professional, Scientific, and Technical Services_OH","DUSTBUSTERS SWEEPING SERVICE, INC."
+685,Educational Services_OH,"DUSTBUSTERS SWEEPING SERVICE, INC."
+686,Administrative and Support and Waste Management and Remediation Services_OH,"DUSTBUSTERS SWEEPING SERVICE, INC."
+687,Real Estate and Rental and Leasing_OH,"DUSTBUSTERS SWEEPING SERVICE, INC."
+688,Public Administration_OH,"DUSTBUSTERS SWEEPING SERVICE, INC."
+689,Health Care and Social Assistance_OH,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+690,Management of Companies and Enterprises_OH,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+691,RETIRED_OH,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+692,"Professional, Scientific, and Technical Services_OH",WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+693,Educational Services_OH,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+694,Administrative and Support and Waste Management and Remediation Services_OH,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+695,Real Estate and Rental and Leasing_OH,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+696,Public Administration_OH,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+697,Health Care and Social Assistance_OH,"EXECUTIVE EAGLES ADVERTISING, LLC"
+698,Management of Companies and Enterprises_OH,"EXECUTIVE EAGLES ADVERTISING, LLC"
+699,RETIRED_OH,"EXECUTIVE EAGLES ADVERTISING, LLC"
+700,"Professional, Scientific, and Technical Services_OH","EXECUTIVE EAGLES ADVERTISING, LLC"
+701,Educational Services_OH,"EXECUTIVE EAGLES ADVERTISING, LLC"
+702,Administrative and Support and Waste Management and Remediation Services_OH,"EXECUTIVE EAGLES ADVERTISING, LLC"
+703,Real Estate and Rental and Leasing_OH,"EXECUTIVE EAGLES ADVERTISING, LLC"
+704,Public Administration_OH,"EXECUTIVE EAGLES ADVERTISING, LLC"
+705,Health Care and Social Assistance_OH,NRA INSTITUTE FOR LEGISLATIVE ACTION
+706,Management of Companies and Enterprises_OH,NRA INSTITUTE FOR LEGISLATIVE ACTION
+707,RETIRED_OH,NRA INSTITUTE FOR LEGISLATIVE ACTION
+708,"Professional, Scientific, and Technical Services_OH",NRA INSTITUTE FOR LEGISLATIVE ACTION
+709,Educational Services_OH,NRA INSTITUTE FOR LEGISLATIVE ACTION
+710,Administrative and Support and Waste Management and Remediation Services_OH,NRA INSTITUTE FOR LEGISLATIVE ACTION
+711,Real Estate and Rental and Leasing_OH,NRA INSTITUTE FOR LEGISLATIVE ACTION
+712,Public Administration_OH,NRA INSTITUTE FOR LEGISLATIVE ACTION
+713,Health Care and Social Assistance_OH,"MASTER PRINT, INC."
+714,Management of Companies and Enterprises_OH,"MASTER PRINT, INC."
+715,RETIRED_OH,"MASTER PRINT, INC."
+716,"Professional, Scientific, and Technical Services_OH","MASTER PRINT, INC."
+717,Educational Services_OH,"MASTER PRINT, INC."
+718,Administrative and Support and Waste Management and Remediation Services_OH,"MASTER PRINT, INC."
+719,Real Estate and Rental and Leasing_OH,"MASTER PRINT, INC."
+720,Public Administration_OH,"MASTER PRINT, INC."
+721,Health Care and Social Assistance_OH,UNITED STATES POSTAL SERVICE
+722,Management of Companies and Enterprises_OH,UNITED STATES POSTAL SERVICE
+723,RETIRED_OH,UNITED STATES POSTAL SERVICE
+724,"Professional, Scientific, and Technical Services_OH",UNITED STATES POSTAL SERVICE
+725,Educational Services_OH,UNITED STATES POSTAL SERVICE
+726,Administrative and Support and Waste Management and Remediation Services_OH,UNITED STATES POSTAL SERVICE
+727,Real Estate and Rental and Leasing_OH,UNITED STATES POSTAL SERVICE
+728,Public Administration_OH,UNITED STATES POSTAL SERVICE
+729,Health Care and Social Assistance_OH,PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+730,RETIRED_OH,PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+731,"Professional, Scientific, and Technical Services_OH",PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+732,Public Administration_OH,PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+733,Health Care and Social Assistance_OH,FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+734,RETIRED_OH,FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+735,"Professional, Scientific, and Technical Services_OH",FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+736,Public Administration_OH,FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+737,Health Care and Social Assistance_OH,PLANNED PARENTHOOD MAINE ACTION FUND
+738,RETIRED_OH,PLANNED PARENTHOOD MAINE ACTION FUND
+739,"Professional, Scientific, and Technical Services_OH",PLANNED PARENTHOOD MAINE ACTION FUND
+740,Public Administration_OH,PLANNED PARENTHOOD MAINE ACTION FUND
+741,Health Care and Social Assistance_OH,DONALD J. TRUMP FOR PRESIDENT INC
+742,Management of Companies and Enterprises_OH,DONALD J. TRUMP FOR PRESIDENT INC
+743,RETIRED_OH,DONALD J. TRUMP FOR PRESIDENT INC
+744,"Professional, Scientific, and Technical Services_OH",DONALD J. TRUMP FOR PRESIDENT INC
+745,Educational Services_OH,DONALD J. TRUMP FOR PRESIDENT INC
+746,Administrative and Support and Waste Management and Remediation Services_OH,DONALD J. TRUMP FOR PRESIDENT INC
+747,Real Estate and Rental and Leasing_OH,DONALD J. TRUMP FOR PRESIDENT INC
+748,Public Administration_OH,DONALD J. TRUMP FOR PRESIDENT INC
+749,Health Care and Social Assistance_OH,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+750,Management of Companies and Enterprises_OH,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+751,RETIRED_OH,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+752,"Professional, Scientific, and Technical Services_OH",TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+753,NOT EMPLOYED_OH,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+754,Educational Services_OH,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+755,Finance and Insurance_OH,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+756,Administrative and Support and Waste Management and Remediation Services_OH,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+757,Real Estate and Rental and Leasing_OH,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+758,Public Administration_OH,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+759,Health Care and Social Assistance_OH,TRUMP VICTORY
+760,Management of Companies and Enterprises_OH,TRUMP VICTORY
+761,RETIRED_OH,TRUMP VICTORY
+762,Public Administration_OH,TRUMP VICTORY
+763,Health Care and Social Assistance_OH,BIDEN VICTORY FUND
+764,Management of Companies and Enterprises_OH,BIDEN VICTORY FUND
+765,RETIRED_OH,BIDEN VICTORY FUND
+766,"Professional, Scientific, and Technical Services_OH",BIDEN VICTORY FUND
+767,NOT EMPLOYED_OH,BIDEN VICTORY FUND
+768,Educational Services_OH,BIDEN VICTORY FUND
+769,Finance and Insurance_OH,BIDEN VICTORY FUND
+770,Administrative and Support and Waste Management and Remediation Services_OH,BIDEN VICTORY FUND
+771,Real Estate and Rental and Leasing_OH,BIDEN VICTORY FUND
+772,Public Administration_OH,BIDEN VICTORY FUND
+773,Public Administration_MN,BIDEN FOR PRESIDENT
+774,Real Estate and Rental and Leasing_MN,BIDEN FOR PRESIDENT
+775,Transportation and Warehousing_MN,BIDEN FOR PRESIDENT
+776,Management of Companies and Enterprises_MN,BIDEN FOR PRESIDENT
+777,Health Care and Social Assistance_MN,BIDEN FOR PRESIDENT
+778,Educational Services_MN,BIDEN FOR PRESIDENT
+779,RETIRED_MN,BIDEN FOR PRESIDENT
+780,"Professional, Scientific, and Technical Services_MN",BIDEN FOR PRESIDENT
+781,NOT EMPLOYED_MN,BIDEN FOR PRESIDENT
+782,Administrative and Support and Waste Management and Remediation Services_MN,BIDEN FOR PRESIDENT
+783,Public Administration_MN,"DONALD J. TRUMP FOR PRESIDENT, INC."
+784,Real Estate and Rental and Leasing_MN,"DONALD J. TRUMP FOR PRESIDENT, INC."
+785,Transportation and Warehousing_MN,"DONALD J. TRUMP FOR PRESIDENT, INC."
+786,Management of Companies and Enterprises_MN,"DONALD J. TRUMP FOR PRESIDENT, INC."
+787,Health Care and Social Assistance_MN,"DONALD J. TRUMP FOR PRESIDENT, INC."
+788,Educational Services_MN,"DONALD J. TRUMP FOR PRESIDENT, INC."
+789,RETIRED_MN,"DONALD J. TRUMP FOR PRESIDENT, INC."
+790,"Professional, Scientific, and Technical Services_MN","DONALD J. TRUMP FOR PRESIDENT, INC."
+791,NOT EMPLOYED_MN,"DONALD J. TRUMP FOR PRESIDENT, INC."
+792,Administrative and Support and Waste Management and Remediation Services_MN,"DONALD J. TRUMP FOR PRESIDENT, INC."
+793,Public Administration_MN,NRA INSTITUTE FOR LEGISLATIVE ACTION
+794,Transportation and Warehousing_MN,NRA INSTITUTE FOR LEGISLATIVE ACTION
+795,Management of Companies and Enterprises_MN,NRA INSTITUTE FOR LEGISLATIVE ACTION
+796,Health Care and Social Assistance_MN,NRA INSTITUTE FOR LEGISLATIVE ACTION
+797,RETIRED_MN,NRA INSTITUTE FOR LEGISLATIVE ACTION
+798,"Professional, Scientific, and Technical Services_MN",NRA INSTITUTE FOR LEGISLATIVE ACTION
+799,Administrative and Support and Waste Management and Remediation Services_MN,NRA INSTITUTE FOR LEGISLATIVE ACTION
+800,Public Administration_MN,"MASTER PRINT, INC."
+801,Transportation and Warehousing_MN,"MASTER PRINT, INC."
+802,Management of Companies and Enterprises_MN,"MASTER PRINT, INC."
+803,Health Care and Social Assistance_MN,"MASTER PRINT, INC."
+804,RETIRED_MN,"MASTER PRINT, INC."
+805,"Professional, Scientific, and Technical Services_MN","MASTER PRINT, INC."
+806,Administrative and Support and Waste Management and Remediation Services_MN,"MASTER PRINT, INC."
+807,Public Administration_MN,UNITED STATES POSTAL SERVICE
+808,Transportation and Warehousing_MN,UNITED STATES POSTAL SERVICE
+809,Management of Companies and Enterprises_MN,UNITED STATES POSTAL SERVICE
+810,Health Care and Social Assistance_MN,UNITED STATES POSTAL SERVICE
+811,RETIRED_MN,UNITED STATES POSTAL SERVICE
+812,"Professional, Scientific, and Technical Services_MN",UNITED STATES POSTAL SERVICE
+813,Administrative and Support and Waste Management and Remediation Services_MN,UNITED STATES POSTAL SERVICE
+814,Public Administration_MN,STAMPEDE AMERICA
+815,Transportation and Warehousing_MN,STAMPEDE AMERICA
+816,Management of Companies and Enterprises_MN,STAMPEDE AMERICA
+817,Health Care and Social Assistance_MN,STAMPEDE AMERICA
+818,RETIRED_MN,STAMPEDE AMERICA
+819,"Professional, Scientific, and Technical Services_MN",STAMPEDE AMERICA
+820,Administrative and Support and Waste Management and Remediation Services_MN,STAMPEDE AMERICA
+821,Public Administration_MN,"I360, LLC"
+822,Transportation and Warehousing_MN,"I360, LLC"
+823,Management of Companies and Enterprises_MN,"I360, LLC"
+824,Health Care and Social Assistance_MN,"I360, LLC"
+825,RETIRED_MN,"I360, LLC"
+826,"Professional, Scientific, and Technical Services_MN","I360, LLC"
+827,Administrative and Support and Waste Management and Remediation Services_MN,"I360, LLC"
+828,Public Administration_MN,NATIONAL RIFLE ASSOCIATION OF AMERICA
+829,Transportation and Warehousing_MN,NATIONAL RIFLE ASSOCIATION OF AMERICA
+830,Management of Companies and Enterprises_MN,NATIONAL RIFLE ASSOCIATION OF AMERICA
+831,Health Care and Social Assistance_MN,NATIONAL RIFLE ASSOCIATION OF AMERICA
+832,RETIRED_MN,NATIONAL RIFLE ASSOCIATION OF AMERICA
+833,"Professional, Scientific, and Technical Services_MN",NATIONAL RIFLE ASSOCIATION OF AMERICA
+834,Administrative and Support and Waste Management and Remediation Services_MN,NATIONAL RIFLE ASSOCIATION OF AMERICA
+835,Public Administration_MN,"DUSTBUSTERS SWEEPING SERVICE, INC."
+836,Transportation and Warehousing_MN,"DUSTBUSTERS SWEEPING SERVICE, INC."
+837,Management of Companies and Enterprises_MN,"DUSTBUSTERS SWEEPING SERVICE, INC."
+838,Health Care and Social Assistance_MN,"DUSTBUSTERS SWEEPING SERVICE, INC."
+839,RETIRED_MN,"DUSTBUSTERS SWEEPING SERVICE, INC."
+840,"Professional, Scientific, and Technical Services_MN","DUSTBUSTERS SWEEPING SERVICE, INC."
+841,Administrative and Support and Waste Management and Remediation Services_MN,"DUSTBUSTERS SWEEPING SERVICE, INC."
+842,Public Administration_MN,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+843,Transportation and Warehousing_MN,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+844,Management of Companies and Enterprises_MN,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+845,Health Care and Social Assistance_MN,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+846,RETIRED_MN,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+847,"Professional, Scientific, and Technical Services_MN",WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+848,Administrative and Support and Waste Management and Remediation Services_MN,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+849,Public Administration_MN,"EXECUTIVE EAGLES ADVERTISING, LLC"
+850,Transportation and Warehousing_MN,"EXECUTIVE EAGLES ADVERTISING, LLC"
+851,Management of Companies and Enterprises_MN,"EXECUTIVE EAGLES ADVERTISING, LLC"
+852,Health Care and Social Assistance_MN,"EXECUTIVE EAGLES ADVERTISING, LLC"
+853,RETIRED_MN,"EXECUTIVE EAGLES ADVERTISING, LLC"
+854,"Professional, Scientific, and Technical Services_MN","EXECUTIVE EAGLES ADVERTISING, LLC"
+855,Administrative and Support and Waste Management and Remediation Services_MN,"EXECUTIVE EAGLES ADVERTISING, LLC"
+856,Management of Companies and Enterprises_TX,"DONALD J. TRUMP FOR PRESIDENT, INC."
+857,Health Care and Social Assistance_TX,"DONALD J. TRUMP FOR PRESIDENT, INC."
+858,Finance and Insurance_TX,"DONALD J. TRUMP FOR PRESIDENT, INC."
+859,Educational Services_TX,"DONALD J. TRUMP FOR PRESIDENT, INC."
+860,"Professional, Scientific, and Technical Services_TX","DONALD J. TRUMP FOR PRESIDENT, INC."
+861,RETIRED_TX,"DONALD J. TRUMP FOR PRESIDENT, INC."
+862,NOT EMPLOYED_TX,"DONALD J. TRUMP FOR PRESIDENT, INC."
+863,Public Administration_TX,"DONALD J. TRUMP FOR PRESIDENT, INC."
+864,Administrative and Support and Waste Management and Remediation Services_TX,"DONALD J. TRUMP FOR PRESIDENT, INC."
+865,Real Estate and Rental and Leasing_TX,"DONALD J. TRUMP FOR PRESIDENT, INC."
+866,Management of Companies and Enterprises_TX,BIDEN FOR PRESIDENT
+867,Health Care and Social Assistance_TX,BIDEN FOR PRESIDENT
+868,Finance and Insurance_TX,BIDEN FOR PRESIDENT
+869,Educational Services_TX,BIDEN FOR PRESIDENT
+870,"Professional, Scientific, and Technical Services_TX",BIDEN FOR PRESIDENT
+871,RETIRED_TX,BIDEN FOR PRESIDENT
+872,NOT EMPLOYED_TX,BIDEN FOR PRESIDENT
+873,Public Administration_TX,BIDEN FOR PRESIDENT
+874,Administrative and Support and Waste Management and Remediation Services_TX,BIDEN FOR PRESIDENT
+875,Real Estate and Rental and Leasing_TX,BIDEN FOR PRESIDENT
+876,Management of Companies and Enterprises_TX,PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+877,Health Care and Social Assistance_TX,PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+878,Educational Services_TX,PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+879,RETIRED_TX,PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+880,NOT EMPLOYED_TX,PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+881,Administrative and Support and Waste Management and Remediation Services_TX,PLANNED PARENTHOOD ADVOCATES OF ARIZONA
+882,Management of Companies and Enterprises_TX,FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+883,Health Care and Social Assistance_TX,FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+884,Educational Services_TX,FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+885,RETIRED_TX,FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+886,NOT EMPLOYED_TX,FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+887,Administrative and Support and Waste Management and Remediation Services_TX,FLORIDA ALLIANCE OF PLANNED PARENTHOOD AFFILIATES
+888,Management of Companies and Enterprises_TX,PLANNED PARENTHOOD MAINE ACTION FUND
+889,Health Care and Social Assistance_TX,PLANNED PARENTHOOD MAINE ACTION FUND
+890,Educational Services_TX,PLANNED PARENTHOOD MAINE ACTION FUND
+891,RETIRED_TX,PLANNED PARENTHOOD MAINE ACTION FUND
+892,NOT EMPLOYED_TX,PLANNED PARENTHOOD MAINE ACTION FUND
+893,Administrative and Support and Waste Management and Remediation Services_TX,PLANNED PARENTHOOD MAINE ACTION FUND
+894,Management of Companies and Enterprises_TX,DONALD J TRUMP FOR PRESIDENT INC
+895,Health Care and Social Assistance_TX,DONALD J TRUMP FOR PRESIDENT INC
+896,Finance and Insurance_TX,DONALD J TRUMP FOR PRESIDENT INC
+897,Educational Services_TX,DONALD J TRUMP FOR PRESIDENT INC
+898,"Professional, Scientific, and Technical Services_TX",DONALD J TRUMP FOR PRESIDENT INC
+899,RETIRED_TX,DONALD J TRUMP FOR PRESIDENT INC
+900,Public Administration_TX,DONALD J TRUMP FOR PRESIDENT INC
+901,Administrative and Support and Waste Management and Remediation Services_TX,DONALD J TRUMP FOR PRESIDENT INC
+902,Real Estate and Rental and Leasing_TX,DONALD J TRUMP FOR PRESIDENT INC
+903,Management of Companies and Enterprises_TX,DONALD J. TRUMP FOR PRESIDENT INC
+904,Health Care and Social Assistance_TX,DONALD J. TRUMP FOR PRESIDENT INC
+905,Finance and Insurance_TX,DONALD J. TRUMP FOR PRESIDENT INC
+906,Educational Services_TX,DONALD J. TRUMP FOR PRESIDENT INC
+907,"Professional, Scientific, and Technical Services_TX",DONALD J. TRUMP FOR PRESIDENT INC
+908,RETIRED_TX,DONALD J. TRUMP FOR PRESIDENT INC
+909,Public Administration_TX,DONALD J. TRUMP FOR PRESIDENT INC
+910,Administrative and Support and Waste Management and Remediation Services_TX,DONALD J. TRUMP FOR PRESIDENT INC
+911,Real Estate and Rental and Leasing_TX,DONALD J. TRUMP FOR PRESIDENT INC
+912,Management of Companies and Enterprises_TX,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+913,Health Care and Social Assistance_TX,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+914,Finance and Insurance_TX,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+915,Educational Services_TX,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+916,"Professional, Scientific, and Technical Services_TX",TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+917,RETIRED_TX,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+918,NOT EMPLOYED_TX,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+919,Public Administration_TX,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+920,Administrative and Support and Waste Management and Remediation Services_TX,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+921,Real Estate and Rental and Leasing_TX,TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+922,Management of Companies and Enterprises_TX,TRUMP VICTORY
+923,Health Care and Social Assistance_TX,TRUMP VICTORY
+924,Finance and Insurance_TX,TRUMP VICTORY
+925,"Professional, Scientific, and Technical Services_TX",TRUMP VICTORY
+926,RETIRED_TX,TRUMP VICTORY
+927,NOT EMPLOYED_TX,TRUMP VICTORY
+928,Public Administration_TX,TRUMP VICTORY
+929,Administrative and Support and Waste Management and Remediation Services_TX,TRUMP VICTORY
+930,Real Estate and Rental and Leasing_TX,TRUMP VICTORY
+931,Management of Companies and Enterprises_TX,"DONALD TRUMP FOR PRESIDENT, INC."
+932,Health Care and Social Assistance_TX,"DONALD TRUMP FOR PRESIDENT, INC."
+933,Finance and Insurance_TX,"DONALD TRUMP FOR PRESIDENT, INC."
+934,Educational Services_TX,"DONALD TRUMP FOR PRESIDENT, INC."
+935,"Professional, Scientific, and Technical Services_TX","DONALD TRUMP FOR PRESIDENT, INC."
+936,RETIRED_TX,"DONALD TRUMP FOR PRESIDENT, INC."
+937,Public Administration_TX,"DONALD TRUMP FOR PRESIDENT, INC."
+938,Administrative and Support and Waste Management and Remediation Services_TX,"DONALD TRUMP FOR PRESIDENT, INC."
+939,Real Estate and Rental and Leasing_TX,"DONALD TRUMP FOR PRESIDENT, INC."
+940,Management of Companies and Enterprises_TX,BIDEN VICTORY FUND
+941,Health Care and Social Assistance_TX,BIDEN VICTORY FUND
+942,Finance and Insurance_TX,BIDEN VICTORY FUND
+943,Educational Services_TX,BIDEN VICTORY FUND
+944,"Professional, Scientific, and Technical Services_TX",BIDEN VICTORY FUND
+945,RETIRED_TX,BIDEN VICTORY FUND
+946,NOT EMPLOYED_TX,BIDEN VICTORY FUND
+947,Public Administration_TX,BIDEN VICTORY FUND
+948,Administrative and Support and Waste Management and Remediation Services_TX,BIDEN VICTORY FUND
+949,Real Estate and Rental and Leasing_TX,BIDEN VICTORY FUND
+950,Management of Companies and Enterprises_TX,BIDEN ACTION FUND
+951,Educational Services_TX,BIDEN ACTION FUND
+952,Public Administration_GA,BIDEN FOR PRESIDENT
+953,Real Estate and Rental and Leasing_GA,BIDEN FOR PRESIDENT
+954,Management of Companies and Enterprises_GA,BIDEN FOR PRESIDENT
+955,Health Care and Social Assistance_GA,BIDEN FOR PRESIDENT
+956,Finance and Insurance_GA,BIDEN FOR PRESIDENT
+957,Educational Services_GA,BIDEN FOR PRESIDENT
+958,"Professional, Scientific, and Technical Services_GA",BIDEN FOR PRESIDENT
+959,RETIRED_GA,BIDEN FOR PRESIDENT
+960,NOT EMPLOYED_GA,BIDEN FOR PRESIDENT
+961,Administrative and Support and Waste Management and Remediation Services_GA,BIDEN FOR PRESIDENT
+962,Public Administration_GA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+963,Real Estate and Rental and Leasing_GA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+964,Management of Companies and Enterprises_GA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+965,Health Care and Social Assistance_GA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+966,Finance and Insurance_GA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+967,Educational Services_GA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+968,"Professional, Scientific, and Technical Services_GA","DONALD J. TRUMP FOR PRESIDENT, INC."
+969,RETIRED_GA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+970,NOT EMPLOYED_GA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+971,Administrative and Support and Waste Management and Remediation Services_GA,"DONALD J. TRUMP FOR PRESIDENT, INC."
+972,Public Administration_GA,DONALD J. TRUMP FOR PRESIDENT
+973,Management of Companies and Enterprises_GA,DONALD J. TRUMP FOR PRESIDENT
+974,Health Care and Social Assistance_GA,DONALD J. TRUMP FOR PRESIDENT
+975,Finance and Insurance_GA,DONALD J. TRUMP FOR PRESIDENT
+976,Educational Services_GA,DONALD J. TRUMP FOR PRESIDENT
+977,"Professional, Scientific, and Technical Services_GA",DONALD J. TRUMP FOR PRESIDENT
+978,RETIRED_GA,DONALD J. TRUMP FOR PRESIDENT
+979,Administrative and Support and Waste Management and Remediation Services_GA,DONALD J. TRUMP FOR PRESIDENT
+980,Management of Companies and Enterprises_GA,NRA INSTITUTE FOR LEGISLATIVE ACTION
+981,Health Care and Social Assistance_GA,NRA INSTITUTE FOR LEGISLATIVE ACTION
+982,"Professional, Scientific, and Technical Services_GA",NRA INSTITUTE FOR LEGISLATIVE ACTION
+983,RETIRED_GA,NRA INSTITUTE FOR LEGISLATIVE ACTION
+984,Administrative and Support and Waste Management and Remediation Services_GA,NRA INSTITUTE FOR LEGISLATIVE ACTION
+985,Management of Companies and Enterprises_GA,"MASTER PRINT, INC."
+986,Health Care and Social Assistance_GA,"MASTER PRINT, INC."
+987,"Professional, Scientific, and Technical Services_GA","MASTER PRINT, INC."
+988,RETIRED_GA,"MASTER PRINT, INC."
+989,Administrative and Support and Waste Management and Remediation Services_GA,"MASTER PRINT, INC."
+990,Management of Companies and Enterprises_GA,UNITED STATES POSTAL SERVICE
+991,Health Care and Social Assistance_GA,UNITED STATES POSTAL SERVICE
+992,"Professional, Scientific, and Technical Services_GA",UNITED STATES POSTAL SERVICE
+993,RETIRED_GA,UNITED STATES POSTAL SERVICE
+994,Administrative and Support and Waste Management and Remediation Services_GA,UNITED STATES POSTAL SERVICE
+995,Management of Companies and Enterprises_GA,STAMPEDE AMERICA
+996,Health Care and Social Assistance_GA,STAMPEDE AMERICA
+997,"Professional, Scientific, and Technical Services_GA",STAMPEDE AMERICA
+998,RETIRED_GA,STAMPEDE AMERICA
+999,Administrative and Support and Waste Management and Remediation Services_GA,STAMPEDE AMERICA
+1000,Management of Companies and Enterprises_GA,"I360, LLC"
+1001,Health Care and Social Assistance_GA,"I360, LLC"
+1002,"Professional, Scientific, and Technical Services_GA","I360, LLC"
+1003,RETIRED_GA,"I360, LLC"
+1004,Administrative and Support and Waste Management and Remediation Services_GA,"I360, LLC"
+1005,Management of Companies and Enterprises_GA,NATIONAL RIFLE ASSOCIATION OF AMERICA
+1006,Health Care and Social Assistance_GA,NATIONAL RIFLE ASSOCIATION OF AMERICA
+1007,"Professional, Scientific, and Technical Services_GA",NATIONAL RIFLE ASSOCIATION OF AMERICA
+1008,RETIRED_GA,NATIONAL RIFLE ASSOCIATION OF AMERICA
+1009,Administrative and Support and Waste Management and Remediation Services_GA,NATIONAL RIFLE ASSOCIATION OF AMERICA
+1010,Management of Companies and Enterprises_GA,"DUSTBUSTERS SWEEPING SERVICE, INC."
+1011,Health Care and Social Assistance_GA,"DUSTBUSTERS SWEEPING SERVICE, INC."
+1012,"Professional, Scientific, and Technical Services_GA","DUSTBUSTERS SWEEPING SERVICE, INC."
+1013,RETIRED_GA,"DUSTBUSTERS SWEEPING SERVICE, INC."
+1014,Administrative and Support and Waste Management and Remediation Services_GA,"DUSTBUSTERS SWEEPING SERVICE, INC."
+1015,Management of Companies and Enterprises_GA,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+1016,Health Care and Social Assistance_GA,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+1017,"Professional, Scientific, and Technical Services_GA",WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+1018,RETIRED_GA,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+1019,Administrative and Support and Waste Management and Remediation Services_GA,WISCONSIN CONSERVATIVE LEADERSHIP COALITION
+1020,Management of Companies and Enterprises_GA,"EXECUTIVE EAGLES ADVERTISING, LLC"
+1021,Health Care and Social Assistance_GA,"EXECUTIVE EAGLES ADVERTISING, LLC"
+1022,"Professional, Scientific, and Technical Services_GA","EXECUTIVE EAGLES ADVERTISING, LLC"
+1023,RETIRED_GA,"EXECUTIVE EAGLES ADVERTISING, LLC"
+1024,Administrative and Support and Waste Management and Remediation Services_GA,"EXECUTIVE EAGLES ADVERTISING, LLC"
