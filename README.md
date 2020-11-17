@@ -1,6 +1,10 @@
 # CSE6242-Project-Visioneers
 
 [Final Node Graph](https://kzenstratus.github.io/gt_data_vis/)
+[Time Series Plots](https://kzenstratus.github.io/gt_data_vis/eda_plots/national_poll_contrib.html)
+[Occupation Clusters](https://kzenstratus.github.io/gt_data_vis/eda_plots/tsne_100_occupation_2020_10_30.html)
+[Occupation Distribution Comparisons](https://kzenstratus.github.io/gt_data_vis/eda_plots/box_whisker_final.html)
+
 
 Project folder for CSE6242 Visioneers
 
@@ -67,11 +71,6 @@ Setup a python server
 
 ```
 python -m http.server 8000
-```
-
-Navigate to the node graph.
-
-```
-code -> code -> graph.html
+open graph.html
 ```
 
