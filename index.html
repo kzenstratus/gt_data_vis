@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<script type="text/javascript" src="/lib/d3.v5.min.js"></script>
+<script src="d3.v5.min.js"></script>
 <style>
     path.link {
         fill: none;
@@ -30,39 +30,40 @@
 <body>
     <script>
         Promise.all([
-            d3.csv("/data/nodes.csv"),
-            d3.csv("/data/links.csv"),
-            d3.csv("/data/var_nodes.csv"),
+            d3.csv("/data/small_nodes_all_dates.csv"),
+            d3.csv("/data/small_links_all_dates.csv"),
+            d3.csv("/data/small_var_nodes_all_dates.csv"),
         ]).then(function (files) {
 
             var links = files[1];
-            var nodes = files[0];
+            var nodes = files[0];   
             var var_nodes = files[2];
 
-            var width = 2000,
-                height = 2000;
+            var width = 1600,
+                height = 1300;
             
-            var var_nodes_filtered = var_nodes.filter(function(d, id){
-                 if(d.month == 'September'){
-                     return true
-                 } else{
-                     return false
-                 }
-            });
-
+            //var var_nodes_filtered = var_nodes.filter(function(d, id){
+            //     if(d.month == 'September'){
+            //         return true
+            //     } else{
+            //         return false
+            //     }
+            //});
+            var_nodes_filtered = var_nodes
+                
             var force = d3.forceSimulation()
                 .nodes(d3.values(nodes))
                 .force("link", d3.forceLink(links)
                     .id(function (d, i) {
                         return d.id
                     })
-                    .distance(100))
+                    .distance(1))
                 .force('center', d3.forceCenter(width / 2, height / 2))
                 .force("x", d3.forceX())
                 .force("y", d3.forceY())
                 .force("charge", d3.forceManyBody().strength(-250))
                 .alphaTarget(1)
-                .on("tick", tick);
+                .on("tick", tick)
                 
             var svg = d3.select("body").append("svg")
                 .attr("width", width)
@@ -119,7 +120,7 @@
 
             var nodescale_contr_amt = d3.scaleSqrt()
                 .domain([minAmt, maxAmt])
-                .range([10, 100]);
+                .range([5, 50]);
 
             // Electoral vote (scaling)
             var nodes_states = nodes.filter(function(d, id){
@@ -144,7 +145,7 @@
 
             var nodescale_electoral = d3.scaleSqrt()
                 .domain([minEleVote, maxEleVote])
-                .range([10, 50]);
+                .range([5, 50]);
 
             
             // Add circles    
@@ -180,9 +181,9 @@
                     }else if(d.node_type == 'industry'){
                         return "green"
                     }else if(d.node_type == 'committee'){
-                        if(d.party == "Dem"){
+                        if(d.party == "DEM"){
                             return "blue"
-                        }else if (d.party == "Rep"){
+                        }else if (d.party == "REP"){
                             return "red"
                         }
                         return "yellow"
@@ -229,6 +230,7 @@
             // add the curvy lines
             function tick() {
                 path.attr("d", function (d) {
+                    
                     var dx = d.target.x - d.source.x,
                         dy = d.target.y - d.source.y,
                         dr = Math.sqrt(dx * dx + dy * dy);
@@ -243,6 +245,9 @@
                 node.attr("transform", function (d) {
                     return "translate(" + d.x + "," + d.y + ")";
                 });
+                
+
+                
             };
 
             function dragstarted(d) {
