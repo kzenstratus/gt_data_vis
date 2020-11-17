@@ -1,4 +1,7 @@
 # CSE6242-Project-Visioneers
+
+[Final Node Graph](https://kzenstratus.github.io/gt_data_vis/)
+
 Project folder for CSE6242 Visioneers
 
 - Jessica Birks
@@ -8,8 +11,7 @@ Project folder for CSE6242 Visioneers
 - Shashvat Sinha
 - Kevin Zen
 
-*Note to Visioneers* - repo does not contain FEC data because it is too large. It does contain cleaned census data and can also contain polling data.
-FEC data might be shared here after sufficient summarization to reduce its size.
+
 
 ## Description
 
