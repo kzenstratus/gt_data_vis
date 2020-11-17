@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script type="text/javascript" src="../lib/d3.v5.min.js"></script>
+<style>
+    path.link {
+        fill: none;
+        stroke: #666;
+        stroke-width: 0.5px;
+    }
+
+    circle {
+        fill: #ccc;
+        stroke: #fff;
+        stroke: black;
+        stroke-width: 1.5px;
+    }
+
+    text {
+        fill: #000;
+        font: bold 10px sans-serif;
+        pointer-events: none;
+    }
+</style>
+<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+
+<head>
+    <title>Team 40 : Contribution Node Graph</title>
+</head>
+
+<body>
+    <script>
+        Promise.all([
+            d3.csv("../data/nodegraph/nodes.csv"),
+            d3.csv("../data/nodegraph/links.csv"),
+            d3.csv("../data/nodegraph/var_nodes.csv"),
+        ]).then(function (files) {
+
+            var links = files[1];
+            var nodes = files[0];
+            var var_nodes = files[2];
+
+            var width = 2000,
+                height = 2000;
+            
+            var var_nodes_filtered = var_nodes.filter(function(d, id){
+                 if(d.month == 'September'){
+                     return true
+                 } else{
+                     return false
+                 }
+            });
+
+            var force = d3.forceSimulation()
+                .nodes(d3.values(nodes))
+                .force("link", d3.forceLink(links)
+                    .id(function (d, i) {
+                        return d.id
+                    })
+                    .distance(100))
+                .force('center', d3.forceCenter(width / 2, height / 2))
+                .force("x", d3.forceX())
+                .force("y", d3.forceY())
+                .force("charge", d3.forceManyBody().strength(-250))
+                .alphaTarget(1)
+                .on("tick", tick);
+                
+            var svg = d3.select("body").append("svg")
+                .attr("width", width)
+                .attr("height", height);
+
+            // add the links
+            var path = svg.append("g")
+                .selectAll("path")
+                .data(links)
+                .enter()
+                .append("path")
+                .attr("class", function (d) {
+                    return "link";
+                });
+
+            // define the nodes
+            var node = svg.selectAll(".node")
+                .data(force.nodes())
+                .enter().append("g")
+                .attr("class", "node")
+                .call(d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended))
+                .on("dblclick", unpincircle);
+
+
+
+            // add the nodes
+            // Add degree 
+            d3.selectAll('g.node')
+                .each(function (d) {
+                    d.degree = 0;
+                });
+
+            links.forEach(function (d) {
+                d.source.degree += 1;
+                d.target.degree += 1;
+            });
+            
+
+            // Transaction Amount (scaling)
+            var minAmt = d3.min(
+                d3.values(var_nodes),
+                function (d) {
+                    return +d.transaction_sum;
+                })
+
+            var maxAmt = d3.max(
+                d3.values(var_nodes),
+                function (d) {
+                    return +d.transaction_sum;
+                })
+
+            var nodescale_contr_amt = d3.scaleSqrt()
+                .domain([minAmt, maxAmt])
+                .range([10, 100]);
+
+            // Electoral vote (scaling)
+            var nodes_states = nodes.filter(function(d, id){
+                if(d.node_type == 'state'){
+                    return true
+                } else{
+                    return false
+                }
+            });
+
+            var minEleVote = d3.min(
+                d3.values(nodes_states),
+                function (d) {
+                    return +d.electoral;
+                })
+
+            var maxEleVote = d3.max(
+                d3.values(nodes_states),
+                function (d) {
+                    return +d.electoral;
+                })
+
+            var nodescale_electoral = d3.scaleSqrt()
+                .domain([minEleVote, maxEleVote])
+                .range([10, 50]);
+
+            
+            // Add circles    
+            node.append("circle")
+                .attr("r", function (d) {
+                    value = 0
+                    if(d.node_type == 'state'){
+                        return  nodescale_electoral(d.electoral)
+                    }
+                    if(d.node_type == 'industry' || d.node_type == 'committee'){
+                        var record = var_nodes_filtered.find(function(element, index, array) {
+                            return element.id === d.id;
+                          });
+                        if(record !== undefined){
+                            value = +record.transaction_sum
+                        }
+                    }
+                    return nodescale_contr_amt(value);
+                })
+                .style("fill", function (d) {
+                    if(d.node_type == 'state'){
+                        var record = var_nodes_filtered.find(function(element, index, array) {
+                            return element.id === d.id;
+                          });
+                        if(record !== undefined){
+                            if(+record.biden_poll > +record.trump_poll){
+                                return "blue"
+                            }else{
+                                return "red"
+                            }
+                        }
+                        return "orange" // default
+                    }else if(d.node_type == 'industry'){
+                        return "green"
+                    }else if(d.node_type == 'committee'){
+                        if(d.party == "Dem"){
+                            return "blue"
+                        }else if (d.party == "Rep"){
+                            return "red"
+                        }
+                        return "yellow"
+                    }
+                    else return "gray";
+                })
+                .style("stroke-width", function(d){
+                    if(d.node_type == 'state'){
+                        return 5;
+                    }
+                })
+                .style("visibility", function (d) {
+                    return "visible";
+                  });
+            
+            // Add Node text
+            node.append("text")
+                .attr("dx", function (d) {
+                    if(d.node_type == 'state'){
+                        return -7;
+                    }else{
+                        value = 0
+                        var record = var_nodes_filtered.find(function(element, index, array) {
+                            return element.id === d.id;
+                          });
+                        if(record !== undefined){
+                            value = +record.transaction_sum
+                        }
+                        return nodescale_contr_amt(value) + 5;
+                    }
+                })
+                .attr("dy", "0.1em")
+                .text(function (d) {
+                    return d.node_text;
+                })
+                .style("fill", function(d){
+                    if(d.node_type == 'state'){
+                        return "white";
+                    }
+                    return "black"
+                }
+                );
+
+            // add the curvy lines
+            function tick() {
+                path.attr("d", function (d) {
+                    var dx = d.target.x - d.source.x,
+                        dy = d.target.y - d.source.y,
+                        dr = Math.sqrt(dx * dx + dy * dy);
+                    return "M" +
+                        d.source.x + "," +
+                        d.source.y + "A" +
+                        dr + "," + dr + " 0 0,1 " +
+                        d.target.x + "," +
+                        d.target.y;
+                });
+
+                node.attr("transform", function (d) {
+                    return "translate(" + d.x + "," + d.y + ")";
+                });
+            };
+
+            function dragstarted(d) {
+                if (!d3.event.active) force.alphaTarget(0.3).restart();
+                d.fx = d.x;
+                d.fy = d.y;
+                d.fixed = true;
+            };
+
+            function dragged(d) {
+                d.fx = d3.event.x;
+                d.fy = d3.event.y;
+
+            };
+
+            function dragended(d) {
+                if (!d3.event.active) force.alphaTarget(0);
+                if (d.fixed == true) {
+                    d.fx = d.x;
+                    d.fy = d.y;
+                } else {
+                    d.fx = null;
+                    d.fy = null;
+                }
+
+            };
+
+            function unpincircle(d) {
+                d.fixed = false;
+                d.fx = null;
+                d.fy = null;
+            };
+
+        }).catch(function (error) {
+            console.log(error);
+        });
+    </script>
+</body>
+
+</html>
